@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- MyPush : cloche de notification (admin, campagnes, validation) -->
+  <rect width="32" height="32" rx="8" fill="#1A1410"/>
+  <path transform="translate(4 4.5)" fill="#FFF8F0" d="M12 2a6 6 0 0 0-6 6v4.2L4.3 15a1 1 0 0 0 .9 1.5h13.6a1 1 0 0 0 .9-1.5L18 12.2V8a6 6 0 0 0-6-6Zm-2.6 16a2.7 2.7 0 0 0 5.2 0Z"/>
+  <circle cx="23.5" cy="8.5" r="4.6" fill="#1A1410"/>
+  <circle cx="23.5" cy="8.5" r="3.4" fill="#FF5B2E"/>
+</svg>
